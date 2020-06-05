@@ -27,4 +27,4 @@ You can contribute just by submitting bugs or suggesting improvements by
 
 ## License
 
-Licensed under [MIT License](LICENSE). © Luciano Mammino & Stefano Abalsamo.
+Licensed under [MIT License](LICENSE). © Luciano Mammino
